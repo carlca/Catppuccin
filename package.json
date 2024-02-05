@@ -1,0 +1,21 @@
+{
+  "name": "catppuccin",
+  "displayName": "Catppuccin",
+  "description": "Noice!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Catppuccin",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Catppuccin-color-theme.json"
+      }
+    ]
+  }
+}
